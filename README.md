@@ -7,8 +7,8 @@
 
 
 ### Helpful Hints
-1. Sound Effect for your Game:
-[Swift Style Guide, Required Reading](https://github.com/github/swift-style-guide).
+1. Swift Style Guide, Required Reading
+[Swift Style Guide](https://github.com/github/swift-style-guide).
 
 2. Sound Effect for your Game:
 [soundbible.com/royalty-free-sounds-1.html](http://soundbible.com/royalty-free-sounds-1.html).
